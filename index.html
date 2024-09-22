@@ -1,10 +1,106 @@
 <!DOCTYPE html>
-<html>
-<head>
-<title>test</title>
-</head>
-<body>
-test
-test
-</body>
+<html lang="pl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Archiwum Drollercaster</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="topnav" id="myTopnav">
+        <img src="logo.webp" />
+        <a id="title" href="index.html">Archiwum Drollercaster</a>
+        <div class="dropdown">
+          <button class="dropbtn">
+            Serie
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content" id="serie">
+            <input
+              type="text"
+              id="searchSeria"
+              placeholder="Szukaj serii..."
+              onkeyup="searchSeria()"
+            />
+          </div>
+        </div>
+        <a href="dodaj.html" target="_blank">Dodaj film</a>
+        <div class="dropdown" style="float: right">
+          <button class="dropbtn">
+            Polecane
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">
+            <a
+              href="https://drollercaster.fandom.com/pl/wiki/Drollercaster_World_Wiki"
+              target="_blank"
+              >Drollercaster Wiki</a
+            >
+            <a href="https://discord.com/invite/HSgvZU9Tnr" target="_blank"
+              >Fandom (Discord)</a
+            >
+          </div>
+        </div>
+        <a
+          href="javascript:void(0);"
+          style="font-size: 15px"
+          class="icon"
+          onclick="navFunction()"
+          >&#9776;</a
+        >
+      </div>
+      <br /><br /><br /><br /><br /><br /><br />
+      <div class="content">
+        <div class="left">
+          <br />
+          <input
+            type="text"
+            id="searchOdc"
+            placeholder="Szukaj odcinka..."
+            onkeyup="searchOdc()"
+          />
+          <div class="sidebar" id="sidebar"></div>
+        </div>
+
+        <div class="main">
+          <br /><br /><br /><br />
+          <div id="player">
+            <br /><br />
+            <div id="video">
+              <a id="noselect"
+                >Witaj w Archiwum Drollercaster! Wybierz serię by rozpocząć.</a
+              >
+              <iframe
+                src=""
+                frameborder="0"
+                allowfullscreen
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+              ></iframe>
+
+              <div class="controls">
+                <a id="title"></a>
+                <select
+                  id="source"
+                  onchange="document.querySelector('#video iframe').src = document.getElementById('source').value"
+                ></select>
+                <button id="next" onclick="nextOdc()">Następny</button>
+                <a id="data"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="footer">
+        Strona nie jest powiązana z oficjalnym kanałem DC Studio ani Fandomem
+        Drollercaster Studio.
+        <br />
+        Kontakt: kontakt.grating101@passinbox.com
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
