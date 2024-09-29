@@ -9,6 +9,7 @@ fetch("data.json")
   .then((jsonData) => {
     data = jsonData;
     populateSerie();
+    updateCounter(data);
   });
 
 function populateSerie() {
@@ -29,6 +30,17 @@ function populateSerie() {
   });
 
   if (cookieSeria != null && cookieOdc != null) useCookies();
+}
+
+function updateCounter(data) {
+  const seriesCount = Object.keys(data).length;
+  let episodesCount = 0;
+
+  Object.values(data).forEach((serie) => {
+    episodesCount += serie.length;
+  });
+  
+  document.getElementById("licznik").textContent = `Serie: ${seriesCount} Odcinki: ${episodesCount}`;
 }
 
 function useCookies() {
