@@ -126,6 +126,20 @@
       "title": "KONIEC!"
     }
   ],
+  "Minecraft Stars": [
+    {
+      "odc": 3,
+      "title": "Lucky Block",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1334542075"
+    },
+    {
+      "odc": 4,
+      "title": "MEGABOOS",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/13345415cb"
+    }
+  ],
   "Sid Sam/House": [
     {
       "odc": 1,
@@ -623,7 +637,9 @@
     {
       "odc": 15,
       "title": "DIABEŁ",
-      "date": "13.11.2014"
+      "date": "13.11.2014",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1354630571"
     },
     {
       "odc": 16,
@@ -1399,6 +1415,11 @@
       "date": "24.12.2013",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/y0YDOq-oV58?si=bqAzhTE4s_XRy46N"
+    },
+    {
+      "title": "Minecraft: COPS AND ROBBERS",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1369024505"
     }
   ]
 }
