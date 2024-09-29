@@ -666,7 +666,7 @@
   "MSS/MSH": [
     {
       "odc": 1,
-      "title": "SID WRÓCIŁ",
+      "title": "Reaktywacja",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/h6UcMporChU"
     },
@@ -1132,78 +1132,105 @@
     {
       "odc": 1,
       "title": "Wstaje nowy dzień",
+      "date": "09.09.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/o3q1aSv-2ew?si=dBQzHLLa8DM9O12X"
     },
     {
       "odc": 2,
       "title": "Dom Piosenka i Kura",
+      "date": "18.09.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/m3QohwSK9y4?si=zM_KXBJduqS2qTbv"
     },
     {
       "odc": 3,
       "title": "Ukradłem Statek",
+      "date": "20.09.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/SKONZTo87yc?si=TdC4JbNl1wdFFDXP"
     },
     {
       "odc": 4,
       "title": "SID MICHAŁ POGADANKA",
+      "date": "23.09.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/mghhw9hSxK4?si=rdInYH4iJFBY1nzw"
     },
     {
-      "odc": 5
+      "odc": 5,
+      "title": "Atak ZOMBI",
+      "date": "25.09.2014"
     },
     {
-      "odc": 6
+      "odc": 6,
+      "title": "Wróg i przyjaciele",
+      "date": "0?.10.2014"
     },
     {
-      "odc": 7
+      "odc": 7,
+      "title": "PINGWIN",
+      "date": "09.10.2014"
     },
     {
       "odc": 8,
       "title": "KAIKO HULK",
+      "date": "11.10.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/hvI9f6vLBGk?si=uAcZUAUaJToix7pd"
     },
     {
-      "odc": 9
+      "odc": 9,
+      "title": "VLAD TY GNOJU [*]",
+      "date": "17?.10.2014"
     },
     {
-      "odc": 10
+      "odc": 10,
+      "title": "BRODAWKI",
+      "date": "2?.10.2014"
     },
     {
-      "odc": 11
+      "odc": 11,
+      "title": "PIZZA I WALKA",
+      "date": "27?.10.2014"
     },
     {
       "odc": 12,
       "title": "Halloween Horror",
+      "date": "30.10.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/r4_B17bg5Tk?si=xh_KZH7kU8xt-bmu"
     },
     {
       "odc": 13,
       "title": "Dziadek DIS",
+      "date": "01.11.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/nG6EuXVhYb0?si=I-L0WCgOciCsuREc"
     },
     {
       "odc": 14,
       "title": "CAŁA WALKA",
+      "date": "06.11.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/wUiqjy3s9fc?si=Uz2SuCAlhh3gkdr9"
     },
     {
       "odc": 15,
-      "title": "DIABEŁ"
+      "title": "DIABEŁ",
+      "date": "13.11.2014"
     },
     {
       "odc": 16,
       "title": "RÓŻOWE KOSY",
+      "date": "15.11.2014",
       "source": "YouTube",
       "link": "https://www.youtube.com/embed/57AFelUHqKU?si=ZaSEVszB954KYPsG"
+    },
+    {
+      "odc": 17,
+      "title": "THE END",
+      "date": "20.11.2014"
     }
   ],
   "Inne": [
