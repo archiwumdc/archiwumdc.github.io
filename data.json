@@ -1098,42 +1098,64 @@
   "Sid Friends II": [
     {
       "odc": "1",
-      "title": "HOGWART"
+      "title": "HOGWART",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1213476905"
     },
     {
       "odc": "2",
-      "title": "MIOTŁY"
+      "title": "MIOTŁY",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1273266324"
     },
     {
       "odc": "3",
-      "title": "PAJĄK"
+      "title": "PAJĄK",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/12732804db"
     },
     {
       "odc": "4",
-      "title": "MILTON VS EMIL"
+      "title": "MILTON VS EMIL",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1273282577"
     },
     {
       "odc": "5",
-      "title": "MILTON YOUTUBEREM"
+      "title": "MILTON YOUTUBEREM",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1273287004"
     },
     {
       "odc": "6",
-      "title": "CZY TO SIDOVLAD??"
+      "title": "CZY TO SIDOVLAD??",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/127328767b"
     },
     {
       "odc": "7",
       "title": "MIKOŁAJKI??",
       "date": "05.12.2015",
       "source": "YouTube",
-      "link": "https://www.youtube.com/embed/z15fxqz0e9c"
+      "link": "https://www.youtube.com/embed/z15fxqz0e9c",
+      "source2": "CDA",
+      "link2": "https://ebd.cda.pl/620x368/1273266601"
     },
     {
       "odc": "8",
-      "title": "DOM MOJEGO TATY"
+      "title": "DOM MOJEGO TATY",
+      "source": "CDA",
+      "link": "https://ebd.cda.pl/620x368/1273284631"
     },
     {
       "odc": "9",
-      "title": "THE END"
+      "title": "THE END",
+      "source": "YouTube",
+      "link": "https://www.youtube.com/embed/IWb8LTjCoA8",
+      "source2": "CDA",
+      "link2": "https://ebd.cda.pl/620x368/1356661511",
+      "source3": "CDA",
+      "link3": "https://ebd.cda.pl/620x368/12732894c9"
     }
   ],
   "Dwa Światy I": [
