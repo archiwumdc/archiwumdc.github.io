@@ -584,12 +584,16 @@
     {
       "odc": 6,
       "title": "Wróg i przyjaciele",
-      "date": "0?.10.2014"
+      "date": "0?.10.2014",
+      "source": "Archive",
+      "link": "https://archive.org/embed/sid-sam-ii-6-wrog-i-przyjaciele-minecraft-6/SID%20SAM%20II%20-%20%236%EF%BD%9C%20Wr%C3%B3g%20i%20przyjaciele%20%EF%BD%9C%20Minecraft%20%236.mp4"
     },
     {
       "odc": 7,
       "title": "PINGWIN",
-      "date": "09.10.2014"
+      "date": "09.10.2014",
+      "source": "Archive",
+      "link": "https://archive.org/embed/mssii7/SID%20SAM%20II%20-%20%237%EF%BD%9C%20PINGWIN%20%EF%BD%9C%20Minecraft%20%237.mp4"
     },
     {
       "odc": 8,
@@ -606,12 +610,16 @@
     {
       "odc": 10,
       "title": "BRODAWKI",
-      "date": "2?.10.2014"
+      "date": "2?.10.2014",
+      "source": "Archive",
+      "link": "https://archive.org/embed/mssii10/SID%20SAM%20%2310%20%EF%BD%9C%20BRODAWKI%20%EF%BD%9C%20DrollercasterWorld%20%EF%BD%9C%20DW%EF%BD%9C%20SID%20%EF%BD%9C%20VOJTAZ%20%EF%BD%9C%20KAIKO%20%EF%BD%9C.mp4"
     },
     {
       "odc": 11,
       "title": "PIZZA I WALKA",
-      "date": "27?.10.2014"
+      "date": "27?.10.2014",
+      "source": "Archive",
+      "link": "https://archive.org/embed/sid-sam-ii-11-pizza-i-walka-drollercaster-world-dw-sid-batman-colmar-maniek/SID%20SAM%20II%20%2311%20-%20%EF%BD%9C%20PIZZA%20I%20WALKA%20%EF%BD%9C%20Drollercaster%20World%20%EF%BD%9C%20DW%20%EF%BD%9C%20SID%20%EF%BD%9C%20BATMAN%20%EF%BD%9C%20COLMAR%20%EF%BD%9C%20MANIEK.mp4"
     },
     {
       "odc": 12,
@@ -651,7 +659,9 @@
     {
       "odc": 17,
       "title": "THE END",
-      "date": "20.11.2014"
+      "date": "20.11.2014",
+      "source": "Archive",
+      "link": "https://archive.org/embed/mssii-17/SID%20SAM%20II%20%2317%20-%20%EF%BD%9C%20THE%20END%20%EF%BD%9C%20Drollercaster%20World%20%EF%BD%9C.mp4"
     }
   ],
   "Broda Mikołaja": [
