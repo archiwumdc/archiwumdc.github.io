@@ -1,5 +1,5 @@
 body {
-  background: #adadad;
+  background: #080604;
   background-image: url(background.webp);
   background-repeat: no-repeat;
   background-size: cover;
@@ -8,16 +8,8 @@ body {
 }
 
 .container {
-  height: 1064px;
+  height: 100%;
   width: 100%;
-}
-
-.content {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 25% 50%;
-  text-align: center;
-  height: 78%;
 }
 
 .footer {
@@ -26,6 +18,7 @@ body {
   padding-bottom: 15px;
   background-color: rgba(22, 22, 22, 0.541);
   width: 100%;
+  margin-top: 200px;
 }
 
 #licznik {
@@ -35,6 +28,45 @@ body {
 #noselect {
   color: rgb(233, 233, 233);
 }
+
+.content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 25% 65%;
+  text-align: center;
+  height: 78vh;
+}
+
+#player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#video {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  padding-top: 0;
+}
+
+#video > iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+.controls {
+  color: rgb(201, 201, 201);
+  border-radius: 30px;
+  height: 2vh;
+  overflow: auto;
+  padding: 15px;
+  background-color: #242424bb;
+  text-align: center;
+  margin-top: 10px;
+}
+
 
 /* ------------------------------------------------------------------------------------- */
 
@@ -226,27 +258,6 @@ number {
 }
 
 /* ------------------------------------------------------------------------------------- */
-
-#video {
-  margin: auto;
-  padding: 15px;
-  min-width: 560px;
-}
-
-#video > iframe {
-  min-width:560px;
-  min-height:315px;
-}
-
-.controls {
-  color: rgb(201, 201, 201);
-  border-radius: 30px;
-  height: 20px;
-  overflow: auto;
-  padding: 15px;
-  background-color: #242424bb;
-  min-width: 560px;
-}
 
 .controls > #title {
   color: lightgray;
